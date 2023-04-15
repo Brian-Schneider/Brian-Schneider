@@ -17,7 +17,7 @@
 </div>
 
 &nbsp;<div align="center">
-  [![Spotify](https://brian-schneider.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/brian-schneider)
+  [![Spotify](https://brian-schneider.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/brian_schneider)
 </div>
     
 <!--  End Stats Cards -->
