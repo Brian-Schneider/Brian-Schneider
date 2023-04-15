@@ -16,9 +16,9 @@
  
 </div>
 
-&nbsp;<div align="center">
-  [![Spotify](https://brian-schneider.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/brian_schneider)
-</div>
+
+  [![Spotify](https://now-playing-spotify-7zxxsc0qc-brian-schneider.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/brian_schneider)
+
     
 <!--  End Stats Cards -->
 
