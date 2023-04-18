@@ -6,6 +6,8 @@
 <br>
 <div align="center">
 
+<h2 align="left">📈 GitHub Stats</h2> 
+
 <div class="stats" align="center">
   
   <a href="https://github.com/Brian-Schneider">
@@ -15,7 +17,10 @@
 
  
 </div>
+<br>
+<br>
 
+<h2 align="left">🎧 Spotify</h2>
 
   [![Spotify](https://now-playing-spotify-alpha.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/brian_schneider)
 
