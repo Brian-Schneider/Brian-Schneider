@@ -17,7 +17,12 @@
 
  
 </div>
+    
+<br>
+<br>
 
+<h2 align="left">🎧 Spotify Profile</h2>
+    
 &nbsp;<div align="center">
   [![Spotify](https://now-playing-spotify-alpha.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
